@@ -1,7 +1,7 @@
 # CT_team2
 
 
-#### 1️⃣ Download snRNA-seq dataset (Becker et al.)  
+#### 1️⃣ Download dataset (Becker et al. Nat. Genet., 2022)  
 
 ```bash
 scoop install aria2
